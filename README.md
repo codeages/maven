@@ -1,6 +1,14 @@
 # This is Codeages Maven repository!
 
-## qiqiuyun sdk changelog
+## qiqiuyun android sdk使用手册
+
+
+
+[使用手册]([http://docs.qiqiuyun.com/v2/resource/play-android-sdk.html#%E7%AE%80%E4%BB%8B](http://docs.qiqiuyun.com/v2/resource/play-android-sdk.html#简介))
+
+
+
+## qiqiuyun android sdk changelog
 
 
 
