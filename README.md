@@ -10,7 +10,7 @@
 
 ```groovy
 dependencies {
-	  implementation 'com.edusoho.cloud:manager:1.0.1'
+    implementation 'com.edusoho.cloud:manager:1.0.1'
     implementation 'com.edusoho.cloud:player:1.0.2'
 }
 ```
